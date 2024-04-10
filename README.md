@@ -89,3 +89,5 @@ Following attributes can be used on any `<input />` element.
 | message-value-missing    | Input element has a [required](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#required) attribute, but no value                                                                   | [valueMissing](https://developer.mozilla.org/en-US/docs/Web/API/ValidityState/valueMissing)       |
 
 ## Browser support
+
+`input-validity` will work on all browsers that support [ValidityState API](https://caniuse.com/?search=validitystate)
