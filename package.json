@@ -5,6 +5,14 @@
   "main": "dist/iife/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/index.d.ts",
+  "keywords": [
+    "input validation",
+    "form",
+    "validation",
+    "form validation",
+    "HTML5 validation",
+    "constraint validation"
+  ],
   "files": [
     "dist"
   ],

@@ -1,13 +1,17 @@
 <div style="text-align:center;">
 <h1>input-validity</h1>
+</div>
 
+<div style="text-align:center;">
 <img src="https://badgen.net/static/license/MIT/green" height="20" />
 <img src="https://badgen.net/static/npm%20package/0.1.2/green" height="20" />
 <img src="https://badgen.net/bundlephobia/minzip/input-validity@0.1.2" height="20" />
 <img
 src="https://badgen.net/bundlephobia/dependency-count/input-validity@0.1.2" height="20"
 />
+</div>
 
+<div style="text-align:center;">
 <img src="input-validity.png" style="max-width:600px;width:100%;" />
 </div>
 
