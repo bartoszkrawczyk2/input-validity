@@ -2,7 +2,7 @@
 <h1>input-validity</h1>
 
 <img src="https://badgen.net/static/license/MIT/green" style="height:20px" />
-<img src="https://badgen.net/static/npm%20package/0.1.3/green" style="height:20px" />
+<img src="https://badgen.net/static/npm%20package/0.1.4/green" style="height:20px" />
 <img src="https://badgen.net/static/minzipped%20size/702%20B" style="height:20px" />
 <img src="https://badgen.net/static/dependencies/0" style="height:20px" />
 
