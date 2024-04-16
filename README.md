@@ -1,21 +1,15 @@
 <div style="text-align:center;">
 <h1>input-validity</h1>
-</div>
 
-<div style="text-align:center;">
-<img src="https://badgen.net/static/license/MIT/green" height="20" />
-<img src="https://badgen.net/static/npm%20package/0.1.2/green" height="20" />
-<img src="https://badgen.net/bundlephobia/minzip/input-validity@0.1.2" height="20" />
-<img
-src="https://badgen.net/bundlephobia/dependency-count/input-validity@0.1.2" height="20"
-/>
-</div>
+<img src="https://badgen.net/static/license/MIT/green" style="height:20px" />
+<img src="https://badgen.net/static/npm%20package/0.1.3/green" style="height:20px" />
+<img src="https://badgen.net/bundlephobia/minzip/input-validity@0.1.3" style="height:20px" />
+<img src="https://badgen.net/bundlephobia/dependency-count/input-validity@0.1.3" style="height:20px" />
 
-<div style="text-align:center;">
 <img src="input-validity.png" style="max-width:600px;width:100%;" />
 </div>
 
-Minimal [(702 B min+gzip)](https://bundlephobia.com/package/input-validity@0.1.2) client-side form validation library with 0 dependencies that uses [native HTML5 validation](https://developer.mozilla.org/en-US/docs/Web/HTML/Constraint_validation). Works perfect with server-rendered apps and minimal frontend libraries such as [HTMX](https://htmx.org/) or [Alpine.js](https://alpinejs.dev/).
+Minimal [(702 B min+gzip)](https://bundlephobia.com/package/input-validity@0.1.3) client-side form validation library with 0 dependencies that uses [native HTML5 validation](https://developer.mozilla.org/en-US/docs/Web/HTML/Constraint_validation). Works perfect with server-rendered apps and minimal frontend libraries such as [HTMX](https://htmx.org/) or [Alpine.js](https://alpinejs.dev/).
 
 Docs: [https://input-validity.pages.dev/](https://input-validity.pages.dev/)
 
