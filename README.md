@@ -2,14 +2,14 @@
 <h1>input-validity</h1>
 
 <img src="https://badgen.net/static/license/MIT/green" style="height:20px" />
-<img src="https://badgen.net/static/npm%20package/0.1.4/green" style="height:20px" />
+<img src="https://badgen.net/static/npm%20package/0.1.5/green" style="height:20px" />
 <img src="https://badgen.net/static/minzipped%20size/702%20B" style="height:20px" />
 <img src="https://badgen.net/static/dependencies/0" style="height:20px" />
 
 <img src="input-validity.png" style="max-width:600px;width:100%;" />
 </div>
 
-Minimal [(702 B min+gzip)](https://bundlephobia.com/package/input-validity@0.1.4) client-side form validation library with 0 dependencies that uses [native HTML5 validation](https://developer.mozilla.org/en-US/docs/Web/HTML/Constraint_validation). Works perfect with server-rendered apps and minimal frontend libraries such as [HTMX](https://htmx.org/) or [Alpine.js](https://alpinejs.dev/).
+Minimal [(702 B min+gzip)](https://bundlephobia.com/package/input-validity@0.1.5) client-side form validation library with 0 dependencies that uses [native HTML5 validation](https://developer.mozilla.org/en-US/docs/Web/HTML/Constraint_validation). Works perfect with server-rendered apps and minimal frontend libraries such as [HTMX](https://htmx.org/) or [Alpine.js](https://alpinejs.dev/).
 
 Docs: [https://input-validity.pages.dev/](https://input-validity.pages.dev/)
 
@@ -40,14 +40,14 @@ Installing `input-validity` is as simple as adding a `<script>` tag to your page
 or with specific version:
 
 ```html
-<script src="https://www.unpkg.com/input-validity@0.1.4"></script>
+<script src="https://www.unpkg.com/input-validity@0.1.5"></script>
 ```
 
 CDN approach is extremely simple but you may want to consider [not using CDNs in production](https://blog.wesleyac.com/posts/why-not-javascript-cdn).
 
 ### Download a copy
 
-[Download](https://www.unpkg.com/input-validity@0.1.4/dist/iife/index.js) and copy it into your project to a public assets directory
+[Download](https://www.unpkg.com/input-validity@0.1.5/dist/iife/index.js) and copy it into your project to a public assets directory
 
 ```html
 <script src="/path/to/input-validity.js"></script>

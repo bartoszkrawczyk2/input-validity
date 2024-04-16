@@ -1,6 +1,6 @@
 {
   "name": "input-validity",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Enhanced HTML5 input validation",
   "main": "dist/iife/index.js",
   "module": "dist/esm/index.js",
@@ -29,7 +29,7 @@
   "bugs": {
     "url": "https://github.com/bartoszkrawczyk2/input-validity/issues"
   },
-  "homepage": "https://github.com/bartoszkrawczyk2/input-validity#readme",
+  "homepage": "https://input-validity.pages.dev",
   "devDependencies": {
     "@swc/core": "^1.4.8",
     "tsup": "^8.0.2",
