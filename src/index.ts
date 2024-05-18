@@ -58,9 +58,9 @@ window.addEventListener("input", (e) => {
 });
 
 const init = () => {
-  const sameAsElements = document.querySelectorAll("[pattern-same-as]");
+  const sameAsElements = document.querySelectorAll("[pattern-value]");
   sameAsElements.forEach((targetElement) => {
-    const sourceElementSelector = targetElement.getAttribute("pattern-same-as");
+    const sourceElementSelector = targetElement.getAttribute("pattern-value");
     if (!sourceElementSelector) return;
 
     const sourceElement = document.querySelector(sourceElementSelector);
